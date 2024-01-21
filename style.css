@@ -1,0 +1,28 @@
+.container{
+    width: 800px;
+    margin-inline: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+
+    
+}
+p{
+    color: #707070;
+    
+}
+li{
+    color: #707070;
+}
+#header-h1p{
+    text-align: center;
+    
+}
+#header-h1p h1{
+    color: #db0038;
+}
+.hero{
+    background-color: #f4f4f4;
+    text-align: center;
+    box-shadow: 0px 0px 10px 0px
+    #707070;
+}
